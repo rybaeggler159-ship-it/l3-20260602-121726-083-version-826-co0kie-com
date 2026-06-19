@@ -1,0 +1,25 @@
+{
+  "parsed_movie_count": 2000,
+  "movie_detail_pages": 2000,
+  "html_pages_total": 2016,
+  "index_movie_cards": 2024,
+  "category_movie_cards_total": 2000,
+  "category_counts": {
+    "classic-drama": 167,
+    "action-adventure": 167,
+    "sci-fi-fantasy": 167,
+    "romance-mystery": 167,
+    "comedy-animation": 167,
+    "crime-thriller": 167,
+    "europe-america": 167,
+    "asia-selection": 167,
+    "series-zone": 166,
+    "movie-zone": 166,
+    "hot-year": 166,
+    "word-of-mouth": 166
+  },
+  "jpg_files_in_zip_source": 0,
+  "html_pages_missing_baidu_analytics": [],
+  "zip_path": "/mnt/data/static_movie_site.zip",
+  "zip_size_bytes": 12099473
+}
